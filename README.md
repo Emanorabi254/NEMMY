@@ -29,21 +29,11 @@ NEMMY is an **interactive learning platform for middle school students** that pr
 
 ---
 
-## 📸 Screenshots
-
-### 🌍 Home Page
-![Home Page](images/Home-page.png)
-
-### 📊 Student Progress Page
-![Progress Page](images/progress.png)
-
----
-
 ## 📢 Contributing
 Feel free to fork this repository, open issues, or submit pull requests. Suggestions and improvements are always welcome! 😊
 
 ## 📬 Contact
-For any inquiries, reach out via **email** at *Emanorabi254@gmail.com**.
+For any inquiries, reach out via **email** at *Emanorabi254@gmail.com*.
 
 ---
 
